@@ -1,0 +1,17 @@
+# Exclude demo assets from published package
+assets/demo.gif
+
+# Exclude example directory (if you don't want it in the package)
+# example/
+
+# Exclude build directories
+build/
+
+# Exclude IDE files
+*.iml
+.idea/
+.vscode/
+
+# Exclude OS files
+.DS_Store
+Thumbs.db

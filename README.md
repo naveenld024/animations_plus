@@ -5,6 +5,12 @@ A comprehensive Flutter animation package that provides pre-built animation widg
 [![pub package](https://img.shields.io/pub/v/animations_plus.svg)](https://pub.dev/packages/animations_plus)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## 🎥 Demo
+
+![Animations Plus Demo](assets/demo.gif)
+
+*Showcase of fade, slide, scale, rotation, bounce, shimmer, and staggered animations*
+
 ## ✨ Features
 
 - **Pre-built Animation Widgets**: Fade, slide, scale, rotation, bounce, and shimmer animations
