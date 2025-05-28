@@ -7,7 +7,11 @@ A comprehensive Flutter animation package that provides pre-built animation widg
 
 ## 🎥 Demo
 
-![Animations Plus Demo](assets/demo.gif)
+<div align="center">
+  <img src="assets/demo.gif" alt="Animations Plus Demo" width="400" style="max-width: 100%; height: auto;">
+  <br>
+  <em>If the GIF doesn't load, you can <a href="assets/demo.gif">view it directly here</a></em>
+</div>
 
 *Showcase of fade, slide, scale, rotation, bounce, shimmer, and staggered animations*
 
