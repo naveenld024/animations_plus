@@ -1,6 +1,6 @@
 name: animations_plus
 description: "A comprehensive Flutter animation package with pre-built widgets and utilities for creating smooth, performant animations with minimal boilerplate."
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/naveenld024/animations_plus
 repository: https://github.com/naveenld024/animations_plus
 issue_tracker: https://github.com/naveenld024/animations_plus/issues
